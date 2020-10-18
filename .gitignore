@@ -1,5 +1,8 @@
 # virtual env
 venv/
 
+#vscode dir
+.vscode/
+
 # python files
 **/__pycache__/**
